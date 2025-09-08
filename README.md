@@ -8,10 +8,6 @@
 - filament/filament
 - laravel/cashier
 
-- laravel/sanctum
-- lab404/laravel-impersonate
-- laravel/folio
-
 ## Auth
 
 ```bash
@@ -39,5 +35,5 @@ php artisan vendor:publish --tag="cashier-config"
 
 ## TODO 
 
-[ ] Fix redirect after user change email in profile.
+[x] Fix redirect after user change email in profile.
 
